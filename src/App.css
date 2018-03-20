@@ -6,3 +6,64 @@ body {
 ul {
   list-style-type: none;
 }
+
+button {
+  cursor: pointer;
+}
+
+h1 {
+  padding-top: 1rem;
+  margin: 0;
+}
+
+h2 {
+  margin-top: 0;
+  padding-bottom: 1rem;
+}
+
+#main-btn {
+  font-size: 1.3rem;
+  border-radius: .5rem;
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+}
+
+#app-header {
+  border-bottom: 1px solid #DDDDDD;
+  -webkit-box-shadow: 0 2px 5px 0 rgba(0,0,0,.11);
+  box-shadow: 0 2px 5px 0 rgba(0,0,0,.11);
+}
+
+#option-header {
+  margin: 0 25rem;
+}
+
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
+}
+
+.options {
+  margin: 0 25rem;
+  padding-top: 2rem;
+}
+
+#add-form {
+  margin: 0 25rem;
+}
+
+#add-form input {
+  width: 80%;
+  height: 2rem;
+}
+
+#add-form button {
+  margin-left: 1.5rem;
+}
+
+#add-btn {
+  padding-top: 5rem;
+}
