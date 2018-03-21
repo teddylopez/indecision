@@ -1,13 +1,13 @@
 import React, { Component } from 'react';
 
 const Action = (props) => (
-  <div>
-    <button id="main-btn"
+  <div className="big-grow">
+    <div id="main-btn"
       onClick={props.handlePick}
       disabled={!props.hasOptions}
     >
       What should I do?
-      </button>
+      </div>
   </div>
 );
 
