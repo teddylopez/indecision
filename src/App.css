@@ -88,6 +88,7 @@ h2 {
   height: 3rem;
   display: flex;
   justify-content: space-between;
+  word-break: break-all;
 }
 
 .left {
@@ -101,6 +102,8 @@ h2 {
 }
 
 .modal {
+  outline: none;
+  word-break: break-all;
   padding-top: 7rem;
   padding-bottom: 2rem;
   background-color: #85D28B;
