@@ -78,7 +78,7 @@ class App extends Component {
     console.log('componentWillUnmount');
   }
   render() {
-    const subtitle = 'Put your life in the hands of a computer';
+    const subtitle = 'Put your life in the hands of Ted';
     return (
       <div className="App">
         <Header subtitle={subtitle} />
