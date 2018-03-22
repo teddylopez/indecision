@@ -5,7 +5,8 @@ html {
 
 body {
   text-align: center;
-  overflow: hidden;
+  overflow-x: hidden;
+  overflow-y: scroll;
   color: white;
   font-family: 'Timmana', sans-serif;
   background: #fceabb; /* Old browsers */
