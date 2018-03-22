@@ -5,6 +5,7 @@ html {
 
 body {
   text-align: center;
+  overflow: hidden;
   color: white;
   font-family: 'Timmana', sans-serif;
   background: #fceabb; /* Old browsers */
